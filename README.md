@@ -3,9 +3,14 @@ Creating a GUI calculator typically involves using a programming language and a 
 Mathematical functions includes:
 
 1.Addition
+
 2.Substraction
+
 3.Multiplication
+
 4.Division
+
 5.Squareroot......etc
+
 This functions helps us to perform a wide Variety of Calculations.
 GUI Calculator is a user-friendly software tool that simplifies mathematical calculations by providing a visual interface with Buttons and features for performing basic and Advanced mathematical operations.
