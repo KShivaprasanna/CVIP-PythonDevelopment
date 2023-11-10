@@ -7,3 +7,4 @@ Mathematical functions includes
 4.Division
 5.Squareroot......etc
 This functions helps us to perform a wide Variety of Calculations.
+GUI Calculator is a user-friendly software tool that simplifies mathematical calculations by providing a visual interface with Buttons and features for performing basic and Advanced mathematical operations.
