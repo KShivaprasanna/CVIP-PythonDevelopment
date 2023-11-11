@@ -5,6 +5,7 @@ It offers a wide range of features,including customizable exercises,real-time pe
 It offers an assortment of features to enhance your typing speed and accuracy,making it suitable for learners.
 
 KEY FEATURES:
+
 . Interactive typing exercises to improve speed and accuracy.
 
 . Real-time feedback on typing speed and errors.
