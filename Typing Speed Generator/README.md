@@ -6,7 +6,11 @@ It offers an assortment of features to enhance your typing speed and accuracy,ma
 
 KEY FEATURES:
 . Interactive typing exercises to improve speed and accuracy.
+
 . Real-time feedback on typing speed and errors.
+
 . User profiles and progress tracking.
+
 . Personalized training sessions to track your progress.
+
 . A clean and intuitive user interface for a seamless typing experience.
